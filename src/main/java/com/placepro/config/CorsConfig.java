@@ -14,7 +14,7 @@ public class CorsConfig {
 
         CorsConfiguration config = new CorsConfiguration();
 
-        config.addAllowedOrigin("http://localhost:3000");
+        config.addAllowedOrigin("https://placepro-frontend-btr2w10kt-sharanyas-projects-5c1de1be.vercel.app");
 
         config.addAllowedHeader("*");
 
